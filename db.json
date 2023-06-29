@@ -29,6 +29,18 @@
       "name": "Mme. Panda",
       "image": "https://media.giphy.com/media/ALalVMOVR8Qw/giphy.gif",
       "votes": 0
+    },
+    {
+      "name": "Joseph Mbugua",
+      "image": "https://media.tenor.com/JpcVkuH0AHUAAAAM/wolf-howling-wolf.gif",
+      "votes": 0,
+      "id": 6
+    },
+    {
+      "name": "wolf",
+      "image": "https://media.tenor.com/JpcVkuH0AHUAAAAM/wolf-howling-wolf.gif",
+      "votes": 0,
+      "id": 7
     }
   ]
 }
